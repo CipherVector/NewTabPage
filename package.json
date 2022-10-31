@@ -1,7 +1,7 @@
 {
   "name": "new-tab-page",
   "version": "0.1.0",
-  "homepage": "https://mystery-z.github.io/NewTabPage/",
+  "homepage": "https://ciphervector.github.io/NewTabPage/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.7.1",
